@@ -1,6 +1,6 @@
 # Hi there, I'm Julian - 👋 
 
-## I'm a software engineer student, Developer.
+## I'm a software engineer student and developer.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Learn more about DevOps
