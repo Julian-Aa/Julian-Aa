@@ -1,6 +1,12 @@
 # Hi there, I'm Julian - 👋 
 
+## I'm a software engineer student, Developer.
 
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2024 Goals: Learn more about DevOps
+- ⚡ Fun fact: I love to watch series and play games
+
+  
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
