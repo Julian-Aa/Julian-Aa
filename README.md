@@ -19,15 +19,14 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="PY" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Yml" src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
+  <img alt="PY" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img alt="Yml" src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logoColor=151515" />
+  <img alt="PHP" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" />
 
 </p>
 
