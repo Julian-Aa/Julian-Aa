@@ -29,7 +29,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-aa&layout=compact)
 
 
 <h3>Where to find me</h3>
