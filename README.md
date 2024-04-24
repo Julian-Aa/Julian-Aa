@@ -36,7 +36,7 @@
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=julian-aa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-aa&layout=compact&theme=black)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-aa&layout=compact&theme=dark)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Julian-Aa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
